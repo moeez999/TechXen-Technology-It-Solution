@@ -28,12 +28,12 @@ export default function Service() {
                 <div className="icon">
                   <img src="assets/img/icons/service2-icon1.png" alt="" />
                 </div>
-                <a href="#" className="arrow">
+                <a className="arrow">
                   <i className="fa-solid fa-arrow-right" />
                 </a>
                 <div className="heading2">
                   <h4>
-                    <a href="#">Consulting Service</a>
+                    <a>Consulting Service</a>
                   </h4>
                   <div className="space16" />
                   <p>
@@ -50,12 +50,12 @@ export default function Service() {
                 <div className="icon">
                   <img src="assets/img/icons/service2-icon2.png" alt="" />
                 </div>
-                <a href="#" className="arrow">
+                <a className="arrow">
                   <i className="fa-solid fa-arrow-right" />
                 </a>
                 <div className="heading2">
                   <h4>
-                    <a href="#">Software Development</a>
+                    <a>Software Development</a>
                   </h4>
                   <div className="space16" />
                   <p>
@@ -72,12 +72,12 @@ export default function Service() {
                 <div className="icon">
                   <img src="assets/img/icons/service2-icon3.png" alt="" />
                 </div>
-                <a href="#" className="arrow">
+                <a className="arrow">
                   <i className="fa-solid fa-arrow-right" />
                 </a>
                 <div className="heading2">
                   <h4>
-                    <a href="#">Cloud Solution</a>
+                    <a>Cloud Solution</a>
                   </h4>
                   <div className="space16" />
                   <p>
@@ -94,12 +94,12 @@ export default function Service() {
                 <div className="icon">
                   <img src="assets/img/icons/service2-icon4.png" alt="" />
                 </div>
-                <a href="#" className="arrow">
+                <a className="arrow">
                   <i className="fa-solid fa-arrow-right" />
                 </a>
                 <div className="heading2">
                   <h4>
-                    <a href="#">Cyber Security</a>
+                    <a>Cyber Security</a>
                   </h4>
                   <div className="space16" />
                   <p>
@@ -116,12 +116,12 @@ export default function Service() {
                 <div className="icon">
                   <img src="assets/img/icons/service2-icon5.png" alt="" />
                 </div>
-                <a href="#" className="arrow">
+                <a className="arrow">
                   <i className="fa-solid fa-arrow-right" />
                 </a>
                 <div className="heading2">
                   <h4>
-                    <a href="#">Data Analytics</a>
+                    <a>Data Analytics</a>
                   </h4>
                   <div className="space16" />
                   <p>
@@ -138,12 +138,12 @@ export default function Service() {
                 <div className="icon">
                   <img src="assets/img/icons/service2-icon6.png" alt="" />
                 </div>
-                <a href="#" className="arrow">
+                <a className="arrow">
                   <i className="fa-solid fa-arrow-right" />
                 </a>
                 <div className="heading2">
                   <h4>
-                    <a href="#">Manage It Services</a>
+                    <a>Manage It Services</a>
                   </h4>
                   <div className="space16" />
                   <p>
@@ -162,7 +162,7 @@ export default function Service() {
             data-aos="zoom-in-up"
             data-aos-duration={700}
           >
-            <a className="theme-btn2" href="#">
+            <a className="theme-btn2">
               View All Services{" "}
               <span>
                 <i className="fa-solid fa-arrow-right" />

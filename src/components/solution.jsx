@@ -35,7 +35,7 @@ export default function Solution() {
                 </div>
                 <div className="">
                   <h3>
-                    <a href="#">Network Infrastructure Solutions</a>
+                    <a>Network Infrastructure Solutions</a>
                   </h3>
                   <div className="space10" />
                   <p>
@@ -56,7 +56,7 @@ export default function Solution() {
                 </div>
                 <div className="">
                   <h3>
-                    <a href="#">Managed It Services</a>
+                    <a>Managed It Services</a>
                   </h3>
                   <div className="space10" />
                   <p>
@@ -67,7 +67,7 @@ export default function Solution() {
               </div>
               <div className="space30" />
               <div className="" data-aos="fade-right" data-aos-duration={800}>
-                <a className="theme-btn2" href="#">
+                <a className="theme-btn2">
                   Discover More{" "}
                   <span>
                     <i className="fa-solid fa-arrow-right" />

@@ -31,22 +31,22 @@ export default function Team() {
                 <div className="icon-area">
                   <ul>
                     <li>
-                      <a href="#">
+                      <a>
                         <i className="fa-brands fa-linkedin-in" />
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a>
                         <i className="fa-brands fa-x-twitter" />
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a>
                         <i className="fa-brands fa-youtube" />
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a>
                         <i className="fa-brands fa-instagram" />
                       </a>
                     </li>
@@ -56,7 +56,7 @@ export default function Team() {
               <div className="space30" />
               <div className="heading2">
                 <h4>
-                  <a href="#">John Doe</a>
+                  <a>John Doe</a>
                 </h4>
                 <div className="space10" />
                 <p>CEO &amp; Founder</p>
@@ -76,22 +76,22 @@ export default function Team() {
                 <div className="icon-area">
                   <ul>
                     <li>
-                      <a href="#">
+                      <a>
                         <i className="fa-brands fa-linkedin-in" />
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a>
                         <i className="fa-brands fa-x-twitter" />
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a>
                         <i className="fa-brands fa-youtube" />
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a>
                         <i className="fa-brands fa-instagram" />
                       </a>
                     </li>
@@ -101,7 +101,7 @@ export default function Team() {
               <div className="space30" />
               <div className="heading2">
                 <h4>
-                  <a href="#">Jane Smith</a>
+                  <a>Jane Smith</a>
                 </h4>
                 <div className="space10" />
                 <p>Chef Technology Officer</p>
@@ -121,22 +121,22 @@ export default function Team() {
                 <div className="icon-area">
                   <ul>
                     <li>
-                      <a href="#">
+                      <a>
                         <i className="fa-brands fa-linkedin-in" />
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a>
                         <i className="fa-brands fa-x-twitter" />
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a>
                         <i className="fa-brands fa-youtube" />
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a>
                         <i className="fa-brands fa-instagram" />
                       </a>
                     </li>
@@ -146,7 +146,7 @@ export default function Team() {
               <div className="space30" />
               <div className="heading2">
                 <h4>
-                  <a href="#">Sarah Thompson </a>
+                  <a>Sarah Thompson </a>
                 </h4>
                 <div className="space10" />
                 <p>Head of Project Management</p>
@@ -166,22 +166,22 @@ export default function Team() {
                 <div className="icon-area">
                   <ul>
                     <li>
-                      <a href="#">
+                      <a>
                         <i className="fa-brands fa-linkedin-in" />
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a>
                         <i className="fa-brands fa-x-twitter" />
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a>
                         <i className="fa-brands fa-youtube" />
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a>
                         <i className="fa-brands fa-instagram" />
                       </a>
                     </li>
@@ -191,7 +191,7 @@ export default function Team() {
               <div className="space30" />
               <div className="heading2">
                 <h4>
-                  <a href="#">David Garcia</a>
+                  <a>David Garcia</a>
                 </h4>
                 <div className="space10" />
                 <p>Lead Software Engineer</p>

@@ -76,7 +76,7 @@ export default function AboutUs() {
                 data-aos="fade-up-left"
                 data-aos-duration={800}
               >
-                <a className="theme-btn2" href="#">
+                <a className="theme-btn2">
                   Learn More <i className="fa-solid fa-arrow-right" />
                 </a>
               </div>
