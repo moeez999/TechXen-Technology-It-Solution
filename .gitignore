@@ -1,0 +1,11 @@
+# Defaults
+node_modules
+
+# Mac OS
+.DS_Store
+
+# Ignore .env
+.env
+
+# Ignore build folder
+build
