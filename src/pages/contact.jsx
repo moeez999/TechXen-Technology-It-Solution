@@ -242,6 +242,7 @@ export default function Contact() {
             allowFullScreen=""
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
+            title="Google Maps"
           />
         </div>
         {/*=====CTA AREA START=======*/}
@@ -264,13 +265,13 @@ export default function Contact() {
               </div>
               <div className="col-lg-5">
                 <div className="buttons">
-                  <a href="#test" className="cta-btn1" href="service.html">
+                  <a className="cta-btn1" href="service.html">
                     Request a Consultaion
                     <span>
                       <i className="fa-solid fa-arrow-right" />
                     </span>
                   </a>
-                  <a href="#test" className="cta-btn2" href="service.html">
+                  <a className="cta-btn2" href="service.html">
                     Explore Solution
                     <span>
                       <i className="fa-solid fa-arrow-right" />
