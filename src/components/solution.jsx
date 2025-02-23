@@ -35,7 +35,7 @@ export default function Solution() {
                 </div>
                 <div className="">
                   <h3>
-                    <a href="#">Network Infrastructure Solutions</a>
+                    <a href="#test">Network Infrastructure Solutions</a>
                   </h3>
                   <div className="space10" />
                   <p>
@@ -56,7 +56,7 @@ export default function Solution() {
                 </div>
                 <div className="">
                   <h3>
-                    <a href="#">Managed It Services</a>
+                    <a href="#test">Managed It Services</a>
                   </h3>
                   <div className="space10" />
                   <p>

@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="col-lg-4 col-md-6 col-12">
             <div className="single-footer-items footer-logo-area">
               <div className="footer-logo">
-                <a href="#">
+                <a href="#test">
                   <img src="assets/img/logo/header-logo2.png" alt="" />
                 </a>
               </div>
@@ -23,22 +23,22 @@ export default function Footer() {
               </div>
               <ul className="social-icon">
                 <li>
-                  <a href="#">
+                  <a href="#test">
                     <i className="fa-brands fa-linkedin-in" />
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="#test">
                     <i className="fa-brands fa-x-twitter" />
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="#test">
                     <i className="fa-brands fa-youtube" />
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="#test">
                     <i className="fa-brands fa-instagram" />
                   </a>
                 </li>
@@ -50,16 +50,16 @@ export default function Footer() {
               <h3>Service We Offer</h3>
               <ul className="menu-list">
                 <li>
-                  <a href="#">Cloud Computing Solution</a>
+                  <a href="#test">Cloud Computing Solution</a>
                 </li>
                 <li>
-                  <a href="#">Cybersecurity &amp; Compliance</a>
+                  <a href="#test">Cybersecurity &amp; Compliance</a>
                 </li>
                 <li>
-                  <a href="#">Software Development</a>
+                  <a href="#test">Software Development</a>
                 </li>
                 <li>
-                  <a href="#">It Consulting &amp; Support</a>
+                  <a href="#test">It Consulting &amp; Support</a>
                 </li>
               </ul>
             </div>
@@ -133,8 +133,8 @@ export default function Footer() {
             </div>
             <div className="col-md-7">
               <div className="coppyright right-area">
-                <a href="#">Terms &amp; Conditions</a>
-                <a href="#">Privacy Policy</a>
+                <a href="#test">Terms &amp; Conditions</a>
+                <a href="#test">Privacy Policy</a>
               </div>
             </div>
           </div>

@@ -36,7 +36,7 @@ export default function Testimonials() {
               </p>
               <div className="bottom-area">
                 <div className="author">
-                  <a href="#">Jason Behrendorff</a>
+                  <a href="#test">Jason Behrendorff</a>
                 </div>
                 <div className="reating">
                   <ul>
@@ -72,7 +72,7 @@ export default function Testimonials() {
               </p>
               <div className="bottom-area">
                 <div className="author">
-                  <a href="#">Matthew Kuhnemann</a>
+                  <a href="#test">Matthew Kuhnemann</a>
                 </div>
                 <div className="reating">
                   <ul>
@@ -109,7 +109,7 @@ export default function Testimonials() {
               </p>
               <div className="bottom-area">
                 <div className="author">
-                  <a href="#">Scott Boland</a>
+                  <a href="#test">Scott Boland</a>
                 </div>
                 <div className="reating">
                   <ul>
@@ -146,7 +146,7 @@ export default function Testimonials() {
               </p>
               <div className="bottom-area">
                 <div className="author">
-                  <a href="#">Jason Behrendorff</a>
+                  <a href="#test">Jason Behrendorff</a>
                 </div>
                 <div className="reating">
                   <ul>
@@ -182,7 +182,7 @@ export default function Testimonials() {
               </p>
               <div className="bottom-area">
                 <div className="author">
-                  <a href="#">Matthew Kuhnemann</a>
+                  <a href="#test">Matthew Kuhnemann</a>
                 </div>
                 <div className="reating">
                   <ul>
@@ -219,7 +219,7 @@ export default function Testimonials() {
               </p>
               <div className="bottom-area">
                 <div className="author">
-                  <a href="#">Scott Boland</a>
+                  <a href="#test">Scott Boland</a>
                 </div>
                 <div className="reating">
                   <ul>
