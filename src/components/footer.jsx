@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="col-lg-4 col-md-6 col-12">
             <div className="single-footer-items footer-logo-area">
               <div className="footer-logo">
-                <a>
+                <a href="#">
                   <img src="assets/img/logo/header-logo2.png" alt="" />
                 </a>
               </div>
@@ -23,22 +23,22 @@ export default function Footer() {
               </div>
               <ul className="social-icon">
                 <li>
-                  <a>
+                  <a href="#">
                     <i className="fa-brands fa-linkedin-in" />
                   </a>
                 </li>
                 <li>
-                  <a>
+                  <a href="#">
                     <i className="fa-brands fa-x-twitter" />
                   </a>
                 </li>
                 <li>
-                  <a>
+                  <a href="#">
                     <i className="fa-brands fa-youtube" />
                   </a>
                 </li>
                 <li>
-                  <a>
+                  <a href="#">
                     <i className="fa-brands fa-instagram" />
                   </a>
                 </li>
@@ -50,16 +50,16 @@ export default function Footer() {
               <h3>Service We Offer</h3>
               <ul className="menu-list">
                 <li>
-                  <a>Cloud Computing Solution</a>
+                  <a href="#">Cloud Computing Solution</a>
                 </li>
                 <li>
-                  <a>Cybersecurity &amp; Compliance</a>
+                  <a href="#">Cybersecurity &amp; Compliance</a>
                 </li>
                 <li>
-                  <a>Software Development</a>
+                  <a href="#">Software Development</a>
                 </li>
                 <li>
-                  <a>It Consulting &amp; Support</a>
+                  <a href="#">It Consulting &amp; Support</a>
                 </li>
               </ul>
             </div>
@@ -133,8 +133,8 @@ export default function Footer() {
             </div>
             <div className="col-md-7">
               <div className="coppyright right-area">
-                <a>Terms &amp; Conditions</a>
-                <a>Privacy Policy</a>
+                <a href="#">Terms &amp; Conditions</a>
+                <a href="#">Privacy Policy</a>
               </div>
             </div>
           </div>

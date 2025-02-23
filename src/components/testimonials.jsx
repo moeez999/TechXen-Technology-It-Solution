@@ -36,7 +36,7 @@ export default function Testimonials() {
               </p>
               <div className="bottom-area">
                 <div className="author">
-                  <a>Jason Behrendorff</a>
+                  <a href="#">Jason Behrendorff</a>
                 </div>
                 <div className="reating">
                   <ul>
@@ -72,7 +72,7 @@ export default function Testimonials() {
               </p>
               <div className="bottom-area">
                 <div className="author">
-                  <a>Matthew Kuhnemann</a>
+                  <a href="#">Matthew Kuhnemann</a>
                 </div>
                 <div className="reating">
                   <ul>
@@ -109,7 +109,7 @@ export default function Testimonials() {
               </p>
               <div className="bottom-area">
                 <div className="author">
-                  <a>Scott Boland</a>
+                  <a href="#">Scott Boland</a>
                 </div>
                 <div className="reating">
                   <ul>
@@ -146,7 +146,7 @@ export default function Testimonials() {
               </p>
               <div className="bottom-area">
                 <div className="author">
-                  <a>Jason Behrendorff</a>
+                  <a href="#">Jason Behrendorff</a>
                 </div>
                 <div className="reating">
                   <ul>
@@ -182,7 +182,7 @@ export default function Testimonials() {
               </p>
               <div className="bottom-area">
                 <div className="author">
-                  <a>Matthew Kuhnemann</a>
+                  <a href="#">Matthew Kuhnemann</a>
                 </div>
                 <div className="reating">
                   <ul>
@@ -219,7 +219,7 @@ export default function Testimonials() {
               </p>
               <div className="bottom-area">
                 <div className="author">
-                  <a>Scott Boland</a>
+                  <a href="#">Scott Boland</a>
                 </div>
                 <div className="reating">
                   <ul>

@@ -219,7 +219,7 @@ const Header = () => {
                     <div className="contact-3 d-lg-block d-none">
                       <div className="consulting2">
                         <div className="search-icon header__search header-search-btn">
-                          <a>
+                          <a href="#">
                             <i className="fa-solid fa-magnifying-glass" />
                           </a>
                         </div>
@@ -293,10 +293,10 @@ const Header = () => {
         <div className="mobile-nav">
           <ul>
             <li className="has-dropdown">
-              <a>Home </a>
+              <a href="#">Home </a>
               <ul className="sub-menu">
                 <li className="has-dropdown has-dropdown1">
-                  <a>Multipage</a>
+                  <a href="#">Multipage</a>
                   <ul className="sub-menu">
                     <li>
                       <a href="index.html">Home 1</a>
@@ -313,7 +313,7 @@ const Header = () => {
                   </ul>
                 </li>
                 <li className="has-dropdown has-dropdown1">
-                  <a>Landing Page</a>
+                  <a href="#">Landing Page</a>
                   <ul className="sub-menu">
                     <li>
                       <a href="single-index1.html">Home 1</a>
@@ -335,7 +335,7 @@ const Header = () => {
               <a href="about.html">About Us</a>
             </li>
             <li className="has-dropdown">
-              <a>Service</a>
+              <a href="#">Service</a>
               <ul className="sub-menu">
                 <li>
                   <a href="service.html">Service</a>
@@ -352,7 +352,7 @@ const Header = () => {
               </ul>
             </li>
             <li className="has-dropdown">
-              <a>Pages</a>
+              <a href="#">Pages</a>
               <ul className="sub-menu">
                 <li>
                   <a href="contact.html">Contact</a>
@@ -369,7 +369,7 @@ const Header = () => {
               </ul>
             </li>
             <li className="has-dropdown">
-              <a>Blog</a>
+              <a href="#">Blog</a>
               <ul className="sub-menu">
                 <li>
                   <a href="blog.html">Blog</a>
@@ -386,7 +386,7 @@ const Header = () => {
               </ul>
             </li>
             <li className="has-dropdown">
-              <a>Project</a>
+              <a href="#">Project</a>
               <ul className="sub-menu">
                 <li>
                   <a href="project.html">Project</a>
@@ -450,22 +450,22 @@ const Header = () => {
             <h3>Our Location</h3>
             <ul className="social-icon">
               <li>
-                <a>
+                <a href="#">
                   <i className="fa-brands fa-linkedin-in" />
                 </a>
               </li>
               <li>
-                <a>
+                <a href="#">
                   <i className="fa-brands fa-x-twitter" />
                 </a>
               </li>
               <li>
-                <a>
+                <a href="#">
                   <i className="fa-brands fa-youtube" />
                 </a>
               </li>
               <li>
-                <a>
+                <a href="#">
                   <i className="fa-brands fa-instagram" />
                 </a>
               </li>

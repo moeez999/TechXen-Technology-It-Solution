@@ -33,7 +33,7 @@ export default function Service() {
                 </a>
                 <div className="heading2">
                   <h4>
-                    <a>Consulting Service</a>
+                    <a href="#">Consulting Service</a>
                   </h4>
                   <div className="space16" />
                   <p>
@@ -55,7 +55,7 @@ export default function Service() {
                 </a>
                 <div className="heading2">
                   <h4>
-                    <a>Software Development</a>
+                    <a href="#">Software Development</a>
                   </h4>
                   <div className="space16" />
                   <p>
@@ -77,7 +77,7 @@ export default function Service() {
                 </a>
                 <div className="heading2">
                   <h4>
-                    <a>Cloud Solution</a>
+                    <a href="#">Cloud Solution</a>
                   </h4>
                   <div className="space16" />
                   <p>
@@ -99,7 +99,7 @@ export default function Service() {
                 </a>
                 <div className="heading2">
                   <h4>
-                    <a>Cyber Security</a>
+                    <a href="#">Cyber Security</a>
                   </h4>
                   <div className="space16" />
                   <p>
@@ -121,7 +121,7 @@ export default function Service() {
                 </a>
                 <div className="heading2">
                   <h4>
-                    <a>Data Analytics</a>
+                    <a href="#">Data Analytics</a>
                   </h4>
                   <div className="space16" />
                   <p>
@@ -143,7 +143,7 @@ export default function Service() {
                 </a>
                 <div className="heading2">
                   <h4>
-                    <a>Manage It Services</a>
+                    <a href="#">Manage It Services</a>
                   </h4>
                   <div className="space16" />
                   <p>

@@ -26,25 +26,25 @@ export default function HeroSection() {
                   <div className="hero2-tags">
                     <ul>
                       <li>
-                        <a>Software Development</a>
+                        <a href="#">Software Development</a>
                       </li>
                       <li>
-                        <a>Cloud Solution</a>
+                        <a href="#">Cloud Solution</a>
                       </li>
                       <li>
-                        <a>It Solution</a>
+                        <a href="#">It Solution</a>
                       </li>
                       <li>
-                        <a>Data Analytics</a>
+                        <a href="#">Data Analytics</a>
                       </li>
                       <li>
-                        <a>Technology</a>
+                        <a href="#">Technology</a>
                       </li>
                       <li>
-                        <a>Cyber Security</a>
+                        <a href="#">Cyber Security</a>
                       </li>
                       <li>
-                        <a>Consulting Services</a>
+                        <a href="#">Consulting Services</a>
                       </li>
                     </ul>
                   </div>
@@ -55,7 +55,7 @@ export default function HeroSection() {
                       <img src="assets/img/shapes/hero2-shape1.png" alt="" />
                     </div>
                     <div className="shape2">
-                      <a>
+                      <a href="#">
                         <img src="assets/img/shapes/hero2-shape2.png" alt="" />
                       </a>
                     </div>

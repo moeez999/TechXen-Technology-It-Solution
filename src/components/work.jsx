@@ -34,7 +34,7 @@ export default function Work() {
               <div className="space20" />
               <div className="heading2">
                 <h4>
-                  <a>Discovery &amp; Consultation</a>
+                  <a href="#">Discovery &amp; Consultation</a>
                 </h4>
                 <div className="space10" />
                 <p>
@@ -58,7 +58,7 @@ export default function Work() {
               <div className="space20" />
               <div className="heading2">
                 <h4>
-                  <a>Custom Solution Design</a>
+                  <a href="#">Custom Solution Design</a>
                 </h4>
                 <div className="space10" />
                 <p>
@@ -81,7 +81,7 @@ export default function Work() {
               <div className="space20" />
               <div className="heading2">
                 <h4>
-                  <a>Implementation &amp; Integration</a>
+                  <a href="#">Implementation &amp; Integration</a>
                 </h4>
                 <div className="space10" />
                 <p>
@@ -103,7 +103,7 @@ export default function Work() {
               <div className="space20" />
               <div className="heading2">
                 <h4>
-                  <a>Testing &amp; Quality Assurance</a>
+                  <a href="#">Testing &amp; Quality Assurance</a>
                 </h4>
                 <div className="space10" />
                 <p>
@@ -125,7 +125,7 @@ export default function Work() {
               <div className="space20" />
               <div className="heading2">
                 <h4>
-                  <a>Deployment &amp; Training</a>
+                  <a href="#">Deployment &amp; Training</a>
                 </h4>
                 <div className="space10" />
                 <p>
