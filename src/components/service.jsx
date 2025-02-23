@@ -28,7 +28,7 @@ export default function Service() {
                 <div className="icon">
                   <img src="assets/img/icons/service2-icon1.png" alt="" />
                 </div>
-                <a className="arrow">
+                <a href="#test" className="arrow">
                   <i className="fa-solid fa-arrow-right" />
                 </a>
                 <div className="heading2">
@@ -50,7 +50,7 @@ export default function Service() {
                 <div className="icon">
                   <img src="assets/img/icons/service2-icon2.png" alt="" />
                 </div>
-                <a className="arrow">
+                <a href="#test" className="arrow">
                   <i className="fa-solid fa-arrow-right" />
                 </a>
                 <div className="heading2">
@@ -72,7 +72,7 @@ export default function Service() {
                 <div className="icon">
                   <img src="assets/img/icons/service2-icon3.png" alt="" />
                 </div>
-                <a className="arrow">
+                <a href="#test" className="arrow">
                   <i className="fa-solid fa-arrow-right" />
                 </a>
                 <div className="heading2">
@@ -94,7 +94,7 @@ export default function Service() {
                 <div className="icon">
                   <img src="assets/img/icons/service2-icon4.png" alt="" />
                 </div>
-                <a className="arrow">
+                <a href="#test" className="arrow">
                   <i className="fa-solid fa-arrow-right" />
                 </a>
                 <div className="heading2">
@@ -116,7 +116,7 @@ export default function Service() {
                 <div className="icon">
                   <img src="assets/img/icons/service2-icon5.png" alt="" />
                 </div>
-                <a className="arrow">
+                <a href="#test" className="arrow">
                   <i className="fa-solid fa-arrow-right" />
                 </a>
                 <div className="heading2">
@@ -138,7 +138,7 @@ export default function Service() {
                 <div className="icon">
                   <img src="assets/img/icons/service2-icon6.png" alt="" />
                 </div>
-                <a className="arrow">
+                <a href="#test" className="arrow">
                   <i className="fa-solid fa-arrow-right" />
                 </a>
                 <div className="heading2">
@@ -162,7 +162,7 @@ export default function Service() {
             data-aos="zoom-in-up"
             data-aos-duration={700}
           >
-            <a className="theme-btn2">
+            <a href="#test" className="theme-btn2">
               View All Services{" "}
               <span>
                 <i className="fa-solid fa-arrow-right" />

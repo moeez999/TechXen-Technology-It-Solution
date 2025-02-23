@@ -139,7 +139,7 @@ export default function Footer() {
             </div>
           </div>
         </div>
-        <a className="arrow-up">
+        <a href="#test" className="arrow-up">
           <i className="fa-solid fa-arrow-up" />
         </a>
       </div>

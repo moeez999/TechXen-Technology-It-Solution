@@ -72,7 +72,11 @@ const Header = () => {
                                     />
                                   </div>
                                   <div className="homemenu-btn">
-                                    <a className="theme-btn2" href="index.html">
+                                    <a
+                                      href="#"
+                                      className="theme-btn2"
+                                      href="index.html"
+                                    >
                                       Multi Page{" "}
                                       <i className="fa-solid fa-arrow-right" />
                                     </a>
@@ -249,7 +253,11 @@ const Header = () => {
                     <div className="body-overlay" />
                     {/* slide bar end */}
                     <div className="button">
-                      <a className="theme-btn2" href="contact.html">
+                      <a
+                        href="#test"
+                        className="theme-btn2"
+                        href="contact.html"
+                      >
                         Get A Quote{" "}
                         <span>
                           <i className="fa-solid fa-arrow-right" />
@@ -404,7 +412,7 @@ const Header = () => {
             </li>
           </ul>
           <div className="mobile-button">
-            <a className="theme-btn2" href="service.html">
+            <a href="#test" className="theme-btn2" href="service.html">
               Learn More{" "}
               <span>
                 <i className="fa-solid fa-arrow-right" />

@@ -67,7 +67,7 @@ export default function Solution() {
               </div>
               <div className="space30" />
               <div className="" data-aos="fade-right" data-aos-duration={800}>
-                <a className="theme-btn2">
+                <a href="#test" className="theme-btn2">
                   Discover More{" "}
                   <span>
                     <i className="fa-solid fa-arrow-right" />

@@ -29,10 +29,10 @@ export default function Blog() {
               </div>
               <div className="heading2">
                 <div className="tags">
-                  <a href="#" className="date">
+                  <a href="#test" className="date">
                     <img src="assets/img/icons/date.png" alt="" /> 10/02/2024
                   </a>
-                  <a href="#" className="date outhor">
+                  <a href="#test" className="date outhor">
                     <img src="assets/img/icons/user.png" alt="" /> Ben Cutting
                   </a>
                 </div>
@@ -67,10 +67,10 @@ export default function Blog() {
               </div>
               <div className="heading2">
                 <div className="tags">
-                  <a href="#" className="date">
+                  <a href="#test" className="date">
                     <img src="assets/img/icons/date.png" alt="" /> 10/02/2024
                   </a>
-                  <a href="#" className="date outhor">
+                  <a href="#test" className="date outhor">
                     <img src="assets/img/icons/user.png" alt="" /> Ben Cutting
                   </a>
                 </div>
